@@ -20,11 +20,3 @@ select * from my_table
 
 - [ ] Run job
 - [ ] ...
-
-``mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
